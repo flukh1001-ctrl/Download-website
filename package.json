@@ -1,0 +1,12 @@
+{
+  "name": "animemiso-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ANIMEMISO website with a Node.js API adapter for the scrapr package",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@coflyn/scrapr": "latest"
+  }
+}
